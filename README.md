@@ -1,2 +1,2 @@
-# prep-course
-Esta es una prueba para el prep course de soy henry 
+Julio Sebastian Roldan
+Esta es una prueba de como crear un repositorio y clonarlo desde git hub a mi escritorio local
